@@ -1,6 +1,6 @@
 # vuln-methodology · Vulnerability Hunting Methodology
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+[![CI](https://github.com/wdfdsyhb/vuln-methodology/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/vuln-methodology/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
 
 > Ask "how do I hunt IDOR" and get the full playbook: 11 vulnerability classes, each with methodology steps, payload directions, real cases and tool lists.
 
