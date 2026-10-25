@@ -1,6 +1,6 @@
 # vuln-methodology · 漏洞挖掘方法论库
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+[![CI](https://github.com/wdfdsyhb/vuln-methodology/actions/workflows/lint.yml/badge.svg)](https://github.com/wdfdsyhb/vuln-methodology/actions/workflows/lint.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
 
 > 问一句「怎么挖 IDOR」，拿到完整打法：11 种漏洞类型，每类配方法论步骤、payload 方向、真实案例和工具清单。
 >
