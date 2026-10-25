@@ -1,6 +1,10 @@
-# vuln-methodology
+# vuln-methodology · 漏洞挖掘方法论库
 
-漏洞挖掘方法论 **Agent 技能**：11 种漏洞类型的完整方法论 + 真实案例 + 40 工具清单。
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) ![ZCode Skill](https://img.shields.io/badge/AI-ZCode_Skill-purple)
+
+> 问一句「怎么挖 IDOR」，拿到完整打法：11 种漏洞类型，每类配方法论步骤、payload 方向、真实案例和工具清单。
+>
+> English: Ask "how do I hunt IDOR" and get the full playbook — 11 vulnerability classes, each with methodology steps, payload directions, real cases and tool lists.
 
 ## 安装
 
@@ -26,3 +30,9 @@ IDOR/越权、认证绕过、逻辑漏洞、SQL 注入、XSS、SSRF、文件上�
 ## License
 
 MIT
+
+---
+
+## English
+
+Full English documentation: [README_EN.md](README_EN.md)
